@@ -1,0 +1,138 @@
+Error[12/17/2019 7:45:16 PM]:An unhandled exception has occurred while executing the request.
+Error[12/17/2019 7:46:10 PM]:An unhandled exception has occurred while executing the request.
+Warning[17.12.2019 23:49:35]:Query: '(from User <generated>_2 in DbSet<User> select [<generated>_2]).Skip(__p_0).Take(__p_1)' uses a row limiting operation (Skip/Take) without OrderBy which may lead to unpredictable results.
+Warning[17.12.2019 23:59:11]:Query: '(from User <generated>_2 in DbSet<User> select [<generated>_2]).Skip(__p_0).Take(__p_1)' uses a row limiting operation (Skip/Take) without OrderBy which may lead to unpredictable results.
+Warning[18.12.2019 0:05:09]:Query: '(from User <generated>_2 in DbSet<User> select [<generated>_2]).Skip(__p_0).Take(__p_1)' uses a row limiting operation (Skip/Take) without OrderBy which may lead to unpredictable results.
+Warning[18.12.2019 0:56:20]:Invalid password for user 96417d7c-61d7-433d-af9c-5fe793233bdd.
+Warning[18.12.2019 0:56:20]:User 96417d7c-61d7-433d-af9c-5fe793233bdd failed to provide the correct password.
+Warning[18.12.2019 0:56:40]:Query: '(from User <generated>_2 in DbSet<User> select [<generated>_2]).Skip(__p_0).Take(__p_1)' uses a row limiting operation (Skip/Take) without OrderBy which may lead to unpredictable results.
+Warning[18.12.2019 1:20:46]:Query: '(from User <generated>_2 in DbSet<User> select [<generated>_2]).Skip(__p_0).Take(__p_1)' uses a row limiting operation (Skip/Take) without OrderBy which may lead to unpredictable results.
+Error[12/18/2019 4:12:02 PM]:An unhandled exception has occurred while executing the request.
+Error[12/18/2019 4:12:04 PM]:An unhandled exception has occurred while executing the request.
+Error[12/18/2019 4:12:05 PM]:An unhandled exception has occurred while executing the request.
+Error[12/18/2019 4:12:06 PM]:An unhandled exception has occurred while executing the request.
+Error[12/18/2019 4:12:07 PM]:An unhandled exception has occurred while executing the request.
+Error[12/18/2019 4:12:11 PM]:An unhandled exception has occurred while executing the request.
+Error[12/18/2019 4:12:14 PM]:An unhandled exception has occurred while executing the request.
+Warning[18.12.2019 16:12:29]:Query: '(from User <generated>_2 in DbSet<User> select [<generated>_2]).Skip(__p_0).Take(__p_1)' uses a row limiting operation (Skip/Take) without OrderBy which may lead to unpredictable results.
+Error[12/18/2019 4:12:38 PM]:An unhandled exception has occurred while executing the request.
+Error[12/18/2019 4:21:56 PM]:An unhandled exception has occurred while executing the request.
+Error[12/18/2019 4:21:57 PM]:An unhandled exception has occurred while executing the request.
+Error[12/18/2019 4:21:57 PM]:An unhandled exception has occurred while executing the request.
+Error[12/18/2019 4:23:46 PM]:An unhandled exception has occurred while executing the request.
+Error[12/18/2019 4:23:48 PM]:An unhandled exception has occurred while executing the request.
+Error[12/18/2019 4:24:28 PM]:An unhandled exception has occurred while executing the request.
+Error[12/18/2019 4:24:29 PM]:An unhandled exception has occurred while executing the request.
+Error[12/18/2019 4:24:31 PM]:An unhandled exception has occurred while executing the request.
+Error[12/18/2019 4:24:32 PM]:An unhandled exception has occurred while executing the request.
+Error[12/18/2019 4:24:32 PM]:An unhandled exception has occurred while executing the request.
+Error[12/18/2019 4:24:33 PM]:An unhandled exception has occurred while executing the request.
+Error[12/18/2019 4:32:05 PM]:An unhandled exception has occurred while executing the request.
+Error[12/18/2019 4:39:15 PM]:An unhandled exception has occurred while executing the request.
+Error[12/18/2019 4:39:27 PM]:An unhandled exception has occurred while executing the request.
+Error[12/18/2019 4:45:55 PM]:An unhandled exception has occurred while executing the request.
+Error[12/18/2019 4:45:58 PM]:An unhandled exception has occurred while executing the request.
+Error[12/18/2019 6:37:25 PM]:An unhandled exception has occurred while executing the request.
+Error[12/18/2019 6:45:57 PM]:An unhandled exception has occurred while executing the request.
+Error[12/18/2019 6:46:34 PM]:An unhandled exception has occurred while executing the request.
+Error[12/18/2019 6:46:38 PM]:An unhandled exception has occurred while executing the request.
+Error[12/18/2019 6:46:41 PM]:An unhandled exception has occurred while executing the request.
+Error[12/18/2019 6:49:58 PM]:An unhandled exception has occurred while executing the request.
+Warning[18.12.2019 18:53:06]:Query: '(from User <generated>_2 in DbSet<User> select [<generated>_2]).Skip(__p_0).Take(__p_1)' uses a row limiting operation (Skip/Take) without OrderBy which may lead to unpredictable results.
+Warning[18.12.2019 18:56:26]:User 16bcba91-95db-4ea7-a038-2053e2185dec password validation failed: PasswordRequiresUpper.
+Error[12/18/2019 6:56:50 PM]:An unhandled exception has occurred while executing the request.
+Warning[18.12.2019 19:00:13]:Query: '(from User <generated>_2 in DbSet<User> select [<generated>_2]).Skip(__p_0).Take(__p_1)' uses a row limiting operation (Skip/Take) without OrderBy which may lead to unpredictable results.
+Information[18.12.2019 19:00:57]:------------che kavo----------
+Information[18.12.2019 19:00:58]:------------oppa----------
+Error[12/18/2019 7:00:59 PM]:An unhandled exception has occurred while executing the request.
+Warning[18.12.2019 19:04:07]:Query: '(from User <generated>_2 in DbSet<User> select [<generated>_2]).Skip(__p_0).Take(__p_1)' uses a row limiting operation (Skip/Take) without OrderBy which may lead to unpredictable results.
+Information[18.12.2019 19:04:28]:------------che kavo----------
+Information[18.12.2019 19:04:29]:------------oppa----------
+Information[18.12.2019 19:04:29]:------------oppa1----------
+Error[12/18/2019 7:04:29 PM]:An unhandled exception has occurred while executing the request.
+Warning[18.12.2019 19:13:55]:Query: '(from User <generated>_2 in DbSet<User> select [<generated>_2]).Skip(__p_0).Take(__p_1)' uses a row limiting operation (Skip/Take) without OrderBy which may lead to unpredictable results.
+Information[18.12.2019 19:14:26]:------------che kavo----------
+Information[18.12.2019 19:14:27]:------------oppa----------
+Information[18.12.2019 19:14:28]:------------oppa1----------
+Information[18.12.2019 19:14:28]:------------oppa2----------
+Information[18.12.2019 19:14:28]:------------oppa3----------
+Error[12/18/2019 7:14:29 PM]:An unhandled exception has occurred while executing the request.
+Warning[18.12.2019 19:21:26]:Query: '(from User <generated>_2 in DbSet<User> select [<generated>_2]).Skip(__p_0).Take(__p_1)' uses a row limiting operation (Skip/Take) without OrderBy which may lead to unpredictable results.
+Information[18.12.2019 19:21:55]:------------che kavo----------
+Information[18.12.2019 19:21:56]:------------oppa----------
+Information[18.12.2019 19:21:56]:------------oppa1----------
+Information[18.12.2019 19:21:56]:------------oppa2----------
+Information[18.12.2019 19:21:56]:------------oppa3----------
+Information[18.12.2019 19:22:00]:------------oppa4----------
+Error[12/18/2019 7:23:22 PM]:An unhandled exception has occurred while executing the request.
+Information[18.12.2019 19:26:37]:------------che kavo----------
+Information[18.12.2019 19:26:38]:------------oppa----------
+Information[18.12.2019 19:26:38]:------------oppa1----------
+Error[12/18/2019 7:26:38 PM]:An unhandled exception has occurred while executing the request.
+Information[18.12.2019 19:41:32]:------------che kavo----------
+Information[18.12.2019 19:41:33]:------------oppa----------
+Information[18.12.2019 19:41:33]:------------oppa1----------
+Information[18.12.2019 19:41:33]:------------oppa2----------
+Information[18.12.2019 19:41:33]:------------oppa3----------
+Information[18.12.2019 19:41:38]:------------oppa4----------
+Information[18.12.2019 21:30:48]:------------che kavo----------
+Warning[18.12.2019 21:30:48]:поаторение email
+Information[18.12.2019 21:33:18]:------------che kavo----------
+Information[18.12.2019 21:33:19]:------------oppa----------
+Information[18.12.2019 21:33:19]:------------oppa1----------
+Information[18.12.2019 21:33:19]:------------oppa2----------
+Information[18.12.2019 21:33:19]:------------oppa3----------
+Information[18.12.2019 21:33:23]:------------oppa4----------
+Warning[19.12.2019 17:01:15]:Invalid password for user c98e8009-05b6-4f1e-9322-acec839d1c02.
+Warning[19.12.2019 17:01:15]:User c98e8009-05b6-4f1e-9322-acec839d1c02 failed to provide the correct password.
+Warning[12/19/2019 7:02:44 PM]:Query: '(from User <generated>_2 in DbSet<User> select [<generated>_2]).Skip(__p_0).Take(__p_1)' uses a row limiting operation (Skip/Take) without OrderBy which may lead to unpredictable results.
+Information[12/19/2019 7:05:54 PM]:------------che kavo----------
+Warning[12/19/2019 7:05:54 PM]:повторение email
+Information[12/19/2019 7:06:01 PM]:------------che kavo----------
+Warning[12/19/2019 7:06:01 PM]:------------not valid----------
+Information[12/19/2019 7:06:43 PM]:------------che kavo----------
+Warning[12/19/2019 7:06:44 PM]:повторение email
+Information[12/19/2019 7:07:01 PM]:------------che kavo----------
+Warning[12/19/2019 7:07:01 PM]:------------not valid----------
+Information[12/19/2019 7:07:33 PM]:------------che kavo----------
+Warning[12/19/2019 7:07:34 PM]:User 8f3eaffa-1091-45d5-8ea6-a21376c0cfe7 password validation failed: PasswordTooShort;PasswordRequiresNonAlphanumeric;PasswordRequiresLower;PasswordRequiresUpper.
+Warning[12/19/2019 7:07:34 PM]:хз
+Warning[12/19/2019 7:07:34 PM]:------------not valid----------
+Information[12/19/2019 7:07:50 PM]:------------che kavo----------
+Warning[12/19/2019 7:07:50 PM]:User 9a0d755c-d3bf-4eae-8687-2d1e04140beb password validation failed: PasswordTooShort.
+Warning[12/19/2019 7:07:50 PM]:хз
+Warning[12/19/2019 7:07:50 PM]:------------not valid----------
+Information[12/19/2019 7:08:04 PM]:------------che kavo----------
+Information[12/19/2019 7:08:04 PM]:------------oppa----------
+Information[12/19/2019 7:08:04 PM]:------------oppa1----------
+Information[12/19/2019 7:08:04 PM]:------------oppa2----------
+Information[12/19/2019 7:08:04 PM]:------------oppa3----------
+Error[12/19/2019 7:08:07 PM]:An unhandled exception has occurred while executing the request.
+Information[12/19/2019 7:09:24 PM]:------------che kavo----------
+Information[12/19/2019 7:09:24 PM]:------------oppa----------
+Information[12/19/2019 7:09:24 PM]:------------oppa1----------
+Information[12/19/2019 7:09:24 PM]:------------oppa2----------
+Information[12/19/2019 7:09:24 PM]:------------oppa3----------
+Information[12/19/2019 7:09:29 PM]:------------oppa4----------
+Warning[12/19/2019 7:23:46 PM]:Query: '(from User <generated>_2 in DbSet<User> select [<generated>_2]).Skip(__p_0).Take(__p_1)' uses a row limiting operation (Skip/Take) without OrderBy which may lead to unpredictable results.
+Warning[12/19/2019 7:25:07 PM]:Query: '(from User <generated>_2 in DbSet<User> select [<generated>_2]).Skip(__p_0).Take(__p_1)' uses a row limiting operation (Skip/Take) without OrderBy which may lead to unpredictable results.
+Warning[12/19/2019 11:06:48 PM]:Query: '(from User <generated>_2 in DbSet<User> select [<generated>_2]).Skip(__p_0).Take(__p_1)' uses a row limiting operation (Skip/Take) without OrderBy which may lead to unpredictable results.
+Warning[12/20/2019 12:02:01 AM]:Query: '(from User <generated>_2 in DbSet<User> select [<generated>_2]).Skip(__p_0).Take(__p_1)' uses a row limiting operation (Skip/Take) without OrderBy which may lead to unpredictable results.
+Warning[20.12.2019 0:13:00]:Query: '(from User <generated>_2 in DbSet<User> select [<generated>_2]).Skip(__p_0).Take(__p_1)' uses a row limiting operation (Skip/Take) without OrderBy which may lead to unpredictable results.
+Warning[12/20/2019 2:25:24 AM]:Query: '(from User <generated>_2 in DbSet<User> select [<generated>_2]).Skip(__p_0).Take(__p_1)' uses a row limiting operation (Skip/Take) without OrderBy which may lead to unpredictable results.
+Warning[20.12.2019 6:59:19]:Query: '(from User <generated>_2 in DbSet<User> select [<generated>_2]).Skip(__p_0).Take(__p_1)' uses a row limiting operation (Skip/Take) without OrderBy which may lead to unpredictable results.
+Warning[12/20/2019 8:38:57 AM]:Query: '(from User <generated>_2 in DbSet<User> select [<generated>_2]).Skip(__p_0).Take(__p_1)' uses a row limiting operation (Skip/Take) without OrderBy which may lead to unpredictable results.
+Information[20.12.2019 14:55:57]:------------che kavo----------
+Information[20.12.2019 14:55:57]:------------oppa----------
+Information[20.12.2019 14:55:57]:------------oppa1----------
+Information[20.12.2019 14:55:57]:------------oppa2----------
+Information[20.12.2019 14:55:57]:------------oppa3----------
+Information[20.12.2019 14:56:01]:------------oppa4----------
+Information[20.12.2019 15:27:44]:------------che kavo----------
+Information[20.12.2019 15:27:44]:------------oppa----------
+Information[20.12.2019 15:27:45]:------------oppa1----------
+Information[20.12.2019 15:27:45]:------------oppa2----------
+Information[20.12.2019 15:27:45]:------------oppa3----------
+Information[20.12.2019 15:27:53]:------------oppa4----------
+Warning[21.12.2019 1:24:11]:Query: '(from User <generated>_2 in DbSet<User> select [<generated>_2]).Skip(__p_0).Take(__p_1)' uses a row limiting operation (Skip/Take) without OrderBy which may lead to unpredictable results.
+Warning[21.12.2019 12:26:21]:Query: '(from User <generated>_2 in DbSet<User> select [<generated>_2]).Skip(__p_0).Take(__p_1)' uses a row limiting operation (Skip/Take) without OrderBy which may lead to unpredictable results.

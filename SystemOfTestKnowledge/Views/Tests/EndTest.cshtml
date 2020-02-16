@@ -1,0 +1,20 @@
+﻿@model MyWebTest.ViewModels.ResultTestViewModel
+@using System.Globalization;
+@using Microsoft.AspNetCore.Mvc.Localization
+@inject IViewLocalizer Localizer
+@{
+    ViewData["Title"] = "EndTest";
+}
+<div>&nbsp</div>
+<p>@Localizer["number"] @Model.CountCorrectAnswer @Localizer["out"] @Model.CountAllQuestion.</p>
+@if (Model.CountAllQuestion / 2 < Model.CountCorrectAnswer)
+{
+    <p>@Localizer["not_bad"]</p>
+}
+else
+{
+    <p>@Localizer["bad"]</p>
+}
+<div>&nbsp</div>
+<a asp-route="testlist">@Localizer["back"]</a>
+
